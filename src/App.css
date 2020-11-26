@@ -1,0 +1,22 @@
+.app {
+  display: flex;
+  text-align: center;
+  flex-direction: column;
+  
+}
+.app__navbar {
+  display: flex;
+  background: blue;
+  align-items: center;
+  padding: 10px 20px ;
+  
+}
+
+.app__navbar a {
+  margin-left: 100px;
+  font-size: 30px;
+  text-decoration: inherit;
+  
+}
+
+
